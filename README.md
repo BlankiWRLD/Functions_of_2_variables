@@ -1,1 +1,1 @@
-# Functions_of_2_variables
+# Graph of functions of 2 variables
